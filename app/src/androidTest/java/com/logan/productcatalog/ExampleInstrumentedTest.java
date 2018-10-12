@@ -1,4 +1,4 @@
-package mgarzon.createbest.productcatalog;
+package com.logan.productcatalog;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

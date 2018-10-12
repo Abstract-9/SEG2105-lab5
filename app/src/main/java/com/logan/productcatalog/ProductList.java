@@ -1,4 +1,4 @@
-package mgarzon.createbest.productcatalog;
+package com.logan.productcatalog;
 
 /**
  * Created by Miguel Garzón on 2017-05-09.
